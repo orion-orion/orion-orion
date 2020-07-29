@@ -1,5 +1,5 @@
 #### CS系在读学生，机器学习半吊子，并行计算混子
-[![猎户座's github stats](https://github-readme-stats.vercel.app/api?username=lonelyprince7)](https://github.com/anuraghazra/github-readme-stats)
+[![lonelyprince7's github stats](https://github-readme-stats.vercel.app/api?username=lonelyprince7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
