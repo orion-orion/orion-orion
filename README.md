@@ -1,5 +1,27 @@
-#### CS系在读学生，机器学习半吊子，并行计算混子
+# Info
+
+- 🏫 Edu:Harbin Institute of Technology(Shenzhen), Computer Science
+- 🔭 Interest: distributed/federated machine learning, large scale optimization
+- 📒 Blog:https://www.cnblogs.com/orion-orion/ 
+
+
+# Overview
 [![orion-orions github stats](https://github-readme-stats.vercel.app/api?username=orion-orion)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!-- # Project
+
+##  -->
+
+
+
+
+
+
+
+
+
 
 
 <!--
