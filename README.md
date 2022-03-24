@@ -4,7 +4,7 @@
  * @Author: ZhangHongYu
  * @Date: 2022-03-13 11:15:04
  * @LastEditors: ZhangHongYu
- * @LastEditTime: 2022-03-13 14:10:27
+ * @LastEditTime: 2022-03-24 18:48:34
 -->
 # Info
 
@@ -16,6 +16,7 @@
 # Overview
 [![orion-orions github stats](https://github-readme-stats.vercel.app/api?username=orion-orion)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orion-orion&langs_count=3&hide=javascript,go,html,css,tex,Roff)
 
 
 # Project
@@ -26,7 +27,6 @@
 </p>
 
 ## Bagging+DCRN financial data prediction
-
 
 本项目为泰迪杯2021A题《基于 Bagging 和深度学习的上市公司财务数据造假预测》，要求我们确定出各行业与财务数据造假相关的数据指标，确定出第6年财务数据造假的上市公司。我们以MLP，多层残差网络，Cross网络为子网络构建了(Deep-Cross-Residual-NetWork,DCRN)网络模型，此外结合Bagging集成，进一步降低模型的方差(Variance)，从而提高模型的泛化能力。 最该在测试集上的AUC得分为 83.32%，高于所有单独的机器学习模型。
 </p>
