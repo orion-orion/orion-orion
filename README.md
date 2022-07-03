@@ -4,27 +4,22 @@
  * @Author: ZhangHongYu
  * @Date: 2022-03-13 11:15:04
  * @LastEditors: ZhangHongYu
- * @LastEditTime: 2022-07-03 11:38:35
+ * @LastEditTime: 2022-07-03 14:37:10
 -->
-## Hey, orion-orion here! 👋🏻 ![](https://komarev.com/ghpvc/?username=orion-orion)
+## Hey, orion-orion here! 👋🏻  ![](https://komarev.com/ghpvc/?username=orion-orion)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=orion-orion&show_icons=true&hide_border=true" width="50%">
 
-
-
-
 #### I'm HongYu Zhang, a postgraduate student from Sichuan, China.
-- 🏫 Edu: Harbin Institute of Technology(Shenzhen)
-- 🔭 Research: Graph Machine Learning/Federated Learning
-- ⚒️ Tools: C/Java/Python/Tensorflow/Pytorch/Hadoop/Spark
-- 📒 Blog: https://www.cnblogs.com/orion-orion/ 
+- 🏫 Edu: [@Harbin Institute of Technology(Shenzhen)](https://www.hitsz.edu.cn/index.html), CS
+- 🔭 Research: Federated Learning/GNN/Transfer Learning
+- ⚒️ Tools: C/Java/Python, Tensorflow/Pytorch, Hadoop/Hive/Spark
+- 📗 Blog: https://www.cnblogs.com/orion-orion/ 
+
 ___
 
-
-
-
-
+#### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
 - [分布式机器学习：模型平均MA与弹性平均EASGD（PySpark） - orion-orion](https://www.cnblogs.com/orion-orion/p/16426982.html)
 - [分布式机器学习：同步并行SGD算法的实现与复杂度分析（PySpark） - orion-orion](https://www.cnblogs.com/orion-orion/p/16413182.html)
@@ -33,8 +28,9 @@ ___
 - [数值优化：经典一阶确定性算法及其收敛性分析 - orion-orion](https://www.cnblogs.com/orion-orion/p/16367015.html)
 <!-- BLOG-POST-LIST:END -->
 
+____
 
-#### 📊: Weekly coding time 
+#### 📊: Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
