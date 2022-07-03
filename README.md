@@ -4,7 +4,7 @@
  * @Author: ZhangHongYu
  * @Date: 2022-03-13 11:15:04
  * @LastEditors: ZhangHongYu
- * @LastEditTime: 2022-07-03 10:46:57
+ * @LastEditTime: 2022-07-03 10:52:39
 -->
 ## Hey, orion-orion here! 👋🏻
 
@@ -14,15 +14,9 @@
 
 #### I'm HongYu Zhang, a postgraduate student from Sichuan, China.
 - 🏫 Edu: Harbin Institute of Technology(Shenzhen), Computer Science
-- 🔭 Research: distributed/federated machine learning, large scale optimization
+- 🔭 Research: Graph Machine Learning/Federated Learning
 - ⚒️ Tools: C/Java/Python, Tensorflow/Pytorch, Hadoop/Spark
-- ❤️ Hobby: classical literature and music
 - 📒 Blog: https://www.cnblogs.com/orion-orion/ 
-
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
