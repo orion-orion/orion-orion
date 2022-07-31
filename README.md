@@ -21,11 +21,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [联邦学习：联邦场景下的多源知识图谱嵌入 - orion-orion](https://www.cnblogs.com/orion-orion/p/16537292.html)
 - [联邦学习: 联邦场景下的时空数据挖掘 - orion-orion](https://www.cnblogs.com/orion-orion/p/16500126.html)
 - [Python: 列表、数组及迭代器切片的区别及联系 - orion-orion](https://www.cnblogs.com/orion-orion/p/16464225.html)
 - [分布式机器学习：模型平均MA与弹性平均EASGD（PySpark） - orion-orion](https://www.cnblogs.com/orion-orion/p/16426982.html)
 - [分布式机器学习：同步并行SGD算法的实现与复杂度分析（PySpark） - orion-orion](https://www.cnblogs.com/orion-orion/p/16413182.html)
-- [数值优化：经典随机优化算法及其收敛性与复杂度分析 - orion-orion](https://www.cnblogs.com/orion-orion/p/16403084.html)
 <!-- BLOG-POST-LIST:END -->
 
 ____
