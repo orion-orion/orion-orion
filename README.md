@@ -23,7 +23,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [联邦学习：联邦多视角学习在跨领域推荐中的应用 - orion-orion](https://www.cnblogs.com/orion-orion/p/16584365.html)
 - [联邦学习：联邦场景下的多源知识图谱嵌入 - orion-orion](https://www.cnblogs.com/orion-orion/p/16537292.html)
-- [联邦学习: 联邦场景下的时空数据挖掘 - orion-orion](https://www.cnblogs.com/orion-orion/p/16500126.html)
+- [联邦学习：联邦场景下的时空数据挖掘 - orion-orion](https://www.cnblogs.com/orion-orion/p/16500126.html)
 - [Python: 列表、数组及迭代器切片的区别及联系 - orion-orion](https://www.cnblogs.com/orion-orion/p/16464225.html)
 - [分布式机器学习：模型平均MA与弹性平均EASGD（PySpark） - orion-orion](https://www.cnblogs.com/orion-orion/p/16426982.html)
 <!-- BLOG-POST-LIST:END -->
