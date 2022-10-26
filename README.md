@@ -21,11 +21,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [联邦学习：联邦异构知识图谱数据划分 - orion-orion](https://www.cnblogs.com/orion-orion/p/16829566.html)
 - [知识图谱实体对齐3：无监督和自监督的方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16814589.html)
 - [知识图谱实体对齐2：基于GNN嵌入的方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16790701.html)
 - [知识图谱实体对齐1：基于平移（translation）嵌入的方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16743610.html)
 - [寻找领域不变量：从生成模型到因果表征 - orion-orion](https://www.cnblogs.com/orion-orion/p/16729545.html)
-- [联邦学习：联邦多视角学习在跨领域推荐中的应用 - orion-orion](https://www.cnblogs.com/orion-orion/p/16584365.html)
 <!-- BLOG-POST-LIST:END -->
 
 ____
