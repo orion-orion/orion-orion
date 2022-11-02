@@ -21,11 +21,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
-- [图数据挖掘&lpar;一&rpar;：网络的基本概念和表示方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16849722.html)
+- [图数据挖掘（二）：网络的常见度量属性 - orion-orion](https://www.cnblogs.com/orion-orion/p/16850617.html)
+- [图数据挖掘（一）：网络的基本概念和表示方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16849722.html)
 - [联邦学习：联邦异构知识图谱数据划分 - orion-orion](https://www.cnblogs.com/orion-orion/p/16829566.html)
 - [知识图谱实体对齐3：无监督和自监督的方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16814589.html)
 - [知识图谱实体对齐2：基于GNN嵌入的方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16790701.html)
-- [知识图谱实体对齐1：基于平移（translation）嵌入的方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/16743610.html)
 <!-- BLOG-POST-LIST:END -->
 
 ____
