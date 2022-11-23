@@ -34,7 +34,9 @@ ____
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   3 hrs 9 mins    █████████████████████████   100.00 %
+Markdown   4 hrs 24 mins   ███████████████████████▓░   94.86 %
+JSON       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
