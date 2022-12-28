@@ -21,11 +21,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [数值计算：前向和反向自动微分&lpar;Python实现&rpar; - orion-orion](https://www.cnblogs.com/orion-orion/p/17010353.html)
 - [Python：多进程并行编程与进程池 - orion-orion](https://www.cnblogs.com/orion-orion/p/16971381.html)
 - [Python：对程序做性能分析及计时统计 - orion-orion](https://www.cnblogs.com/orion-orion/p/16930169.html)
 - [Python：global、local与nonlocal变量 - orion-orion](https://www.cnblogs.com/orion-orion/p/16928820.html)
 - [Pytorch：使用Tensorboard记录训练状态 - orion-orion](https://www.cnblogs.com/orion-orion/p/16928235.html)
-- [图数据挖掘：幂律分布和无标度网络 - orion-orion](https://www.cnblogs.com/orion-orion/p/16861602.html)
 <!-- BLOG-POST-LIST:END -->
 
 ____
