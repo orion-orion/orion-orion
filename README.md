@@ -9,7 +9,7 @@
 ## Hey, orion-orion here! 👋🏻  ![](https://komarev.com/ghpvc/?username=orion-orion)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=orion-orion&show_icons=true&hide_border=true" width="50%">
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=orion-orion&show_icons=true&hide_border=true" width="50%">
 
 #### I'm HongYu Zhang, a postgraduate student from Sichuan, China.
 - 🏫 Edu: [@Harbin Institute of Technology(Shenzhen)](https://www.hitsz.edu.cn/index.html), CS
