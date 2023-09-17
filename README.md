@@ -54,7 +54,7 @@
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=orion-orion&show_icons=true&hide_border=true" width="50%">
 
-#### I'm HongYu Zhang, a postgraduate student from Sichuan, China.
+#### I'm HongYu Zhang, a postgraduate student from Sichuan, China. I love reading:books:, writing:pencil2:, and gaming:video_game:~
 - 🏫 Edu: [@Harbin Institute of Technology(Shenzhen)](https://www.hitsz.edu.cn/index.html), CS
 - 🔭 Research: Federated Learning/GNN/RecSys
 - ⚒️ Tools: C/Java/Python, Tensorflow/Pytorch, Hadoop/Hive/Spark
