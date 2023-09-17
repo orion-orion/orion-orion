@@ -48,7 +48,8 @@
 #####################                ################################                #########################
            &####                    ###################################                   #########       ##  
 ```
-## *Enthusiastically, sympathetically, firmly*  ![](https://komarev.com/ghpvc/?username=orion-orion)
+## *Enthusiastically, sympathetically, firmly...*<p align="right"> ![](https://komarev.com/ghpvc/?username=orion-orion) </p>
+
 
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=orion-orion&show_icons=true&hide_border=true" width="50%">
