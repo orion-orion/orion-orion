@@ -54,7 +54,7 @@
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=orion-orion&show_icons=true&hide_border=true&theme=tokyonight" width="50%">
 
-#### I'm HongYu Zhang, a postgraduate student from Sichuan, China. I love reading:books:, writing:pencil2:, and drawing:art:~
+#### I'm HongYu Zhang, a postgraduate student from Sichuan, China. I love reading📚, writing✏️, and drawing🎨~
 - 🏫 Edu: [@Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), CS
 - 🔭 Research: Federated Learning / Graph ML / RecSys
 - ⚒️ Tools: C / Java / Python, Tensorflow / Pytorch, Hadoop / Hive / Spark
@@ -64,11 +64,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
-- [SICP：赋值和局部状态（Python实现） - orion-orion](https://www.cnblogs.com/orion-orion/p/17185719.html)
-- [分布式机器学习：异步SGD和Hogwild!算法（Pytorch） - orion-orion](https://www.cnblogs.com/orion-orion/p/17118029.html)
-- [Pytorch：单卡多进程并行训练 - orion-orion](https://www.cnblogs.com/orion-orion/p/17066473.html)
-- [SICP：复数的直角和极坐标的表示（Python实现） - orion-orion](https://www.cnblogs.com/orion-orion/p/17065543.html)
-- [SICP：符号求导、集合表示和Huffman树（Python实现） - orion-orion](https://www.cnblogs.com/orion-orion/p/17026000.html)
+- [图机器学习：从图谱角度来理解图增广 - orion-orion](https://www.cnblogs.com/orion-orion/p/17782141.html)
+- [谱图论：Laplacian算子及其谱性质 - orion-orion](https://www.cnblogs.com/orion-orion/p/17773750.html)
+- [谱图论：Laplacian二次型和Markov转移算子 - orion-orion](https://www.cnblogs.com/orion-orion/p/17731662.html)
+- [迁移学习：互信息的变分上下界 - orion-orion](https://www.cnblogs.com/orion-orion/p/17718912.html)
+- [SICP：惰性求值、流和尾递归（Python实现） - orion-orion](https://www.cnblogs.com/orion-orion/p/17419322.html)
 <!-- BLOG-POST-LIST:END -->
 
 ____
@@ -76,10 +76,12 @@ ____
 #### 📊: Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
-Python       19 hrs 14 mins  ███████████████░░░░░░░░░░   59.45 %
-Markdown     10 hrs 23 mins  ████████░░░░░░░░░░░░░░░░░   32.09 %
-Other        2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+```txt
+Python       23 hrs 30 mins  ██████████████▓░░░░░░░░░░   58.39 %
+Other        13 hrs 55 mins  ████████▓░░░░░░░░░░░░░░░░   34.60 %
+Text         1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Bash         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
