@@ -77,7 +77,11 @@ ____
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX        22 mins         ███████████████░░░░░░░░░░   59.90 %
+Markdown   13 mins         █████████░░░░░░░░░░░░░░░░   36.30 %
+JSON       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
