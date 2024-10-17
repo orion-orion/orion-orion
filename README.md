@@ -64,11 +64,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [概率论沉思录：定量规则 - orion-orion](https://www.cnblogs.com/orion-orion/p/18472437)
 - [概率论沉思录：合情推理 - orion-orion](https://www.cnblogs.com/orion-orion/p/18355649)
 - [推荐系统：精排多目标融合与超参数学习方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/18199461)
 - [图机器学习：从图谱角度来理解图增广 - orion-orion](https://www.cnblogs.com/orion-orion/p/17782141.html)
 - [谱图论：Laplacian算子及其谱性质 - orion-orion](https://www.cnblogs.com/orion-orion/p/17773750.html)
-- [谱图论：Laplacian二次型和Markov转移算子 - orion-orion](https://www.cnblogs.com/orion-orion/p/17731662.html)
 <!-- BLOG-POST-LIST:END -->
 
 ____
