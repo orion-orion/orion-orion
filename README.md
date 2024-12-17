@@ -77,8 +77,7 @@ ____
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        2 mins          ████████████████████████▒   96.79 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
