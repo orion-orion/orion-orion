@@ -64,11 +64,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [概率论沉思录：概率论的怪异应用 - orion-orion](https://www.cnblogs.com/orion-orion/p/18637935)
 - [概率论沉思录：初等假设检验 - orion-orion](https://www.cnblogs.com/orion-orion/p/18621496)
 - [概率论沉思录：初等抽样论 - orion-orion](https://www.cnblogs.com/orion-orion/p/18519155)
 - [概率论沉思录：定量规则 - orion-orion](https://www.cnblogs.com/orion-orion/p/18472437)
 - [概率论沉思录：合情推理 - orion-orion](https://www.cnblogs.com/orion-orion/p/18355649)
-- [推荐系统：精排多目标融合与超参数学习方法 - orion-orion](https://www.cnblogs.com/orion-orion/p/18199461)
 <!-- BLOG-POST-LIST:END -->
 
 ____
