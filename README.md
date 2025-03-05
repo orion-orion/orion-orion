@@ -64,11 +64,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [学习理论：单阶段代理损失的&lpar;H, R&rpar; - 一致界证明 - orion-orion](https://www.cnblogs.com/orion-orion/p/18752946)
 - [学习理论：预测器-拒绝器多分类弃权学习 - orion-orion](https://www.cnblogs.com/orion-orion/p/18730657)
 - [贝叶斯机器学习：最大熵及高斯分布 - orion-orion](https://www.cnblogs.com/orion-orion/p/18688763)
 - [贝叶斯机器学习：共轭先验 - orion-orion](https://www.cnblogs.com/orion-orion/p/18660368)
 - [概率论沉思录：概率论的怪异应用 - orion-orion](https://www.cnblogs.com/orion-orion/p/18637935)
-- [概率论沉思录：初等假设检验 - orion-orion](https://www.cnblogs.com/orion-orion/p/18621496)
 <!-- BLOG-POST-LIST:END -->
 
 ____
