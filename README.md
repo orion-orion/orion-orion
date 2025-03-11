@@ -77,7 +77,8 @@ ____
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   23 hrs 20 mins  █████████████████████████   100.00 %
+Markdown   17 hrs          ████████████████████████▒   97.03 %
+Python     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
