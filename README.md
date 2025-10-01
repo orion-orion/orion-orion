@@ -54,7 +54,7 @@
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=orion-orion&show_icons=true&hide_border=true&theme=tokyonight" width="50%">
 
-#### I'm HongYu Zhang, a postgraduate student from Sichuan, China. I love reading📚, writing✏️, and drawing🎨~
+#### I'm HongYu Zhang, a doctoral student from Sichuan, China. I love reading📚, writing✏️, and drawing🎨~
 - 🏫 Edu: [@Kyoto University](https://www.kyoto-u.ac.jp/en), Data Science
 - 🔭 Research: Learning Theory / Online Optimization / Data Mining
 - ⚒️ Tools: Python / Java / C, Pytorch / Tensorflow, Hadoop / Spark / Hive 
