@@ -64,11 +64,11 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [2025年暨PhD第一学期总结 - orion-orion](https://www.cnblogs.com/orion-orion/p/19409951)
 - [学习理论：凸代理、代理与估计误差界 - orion-orion](https://www.cnblogs.com/orion-orion/p/19290276)
 - [学习理论：代理损失函数的泛化界与Rademacher复杂度 - orion-orion](https://www.cnblogs.com/orion-orion/p/19021877)
 - [学习理论：单阶段代理损失的&lpar;H, R&rpar; - 一致界证明 - orion-orion](https://www.cnblogs.com/orion-orion/p/18752946)
 - [学习理论：预测器-拒绝器多分类弃权学习 - orion-orion](https://www.cnblogs.com/orion-orion/p/18730657)
-- [贝叶斯机器学习：最大熵及高斯分布 - orion-orion](https://www.cnblogs.com/orion-orion/p/18688763)
 <!-- BLOG-POST-LIST:END -->
 
 ____
