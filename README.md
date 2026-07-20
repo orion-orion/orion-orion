@@ -64,7 +64,7 @@ ___
 
 #### 📕  Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
-- [学习理论：凸代理与在线学习regret界证明 - orion-orion](https://www.cnblogs.com/orion-orion/p/21620026)
+- [学习理论：凸代理与在线学习代理regret界证明 - orion-orion](https://www.cnblogs.com/orion-orion/p/21620026)
 - [学习理论：在线弃权学习 - orion-orion](https://www.cnblogs.com/orion-orion/p/20086331)
 - [2025年暨PhD第一学期总结 - orion-orion](https://www.cnblogs.com/orion-orion/p/19409951)
 - [学习理论：凸代理、代理与估计误差界 - orion-orion](https://www.cnblogs.com/orion-orion/p/19290276)
